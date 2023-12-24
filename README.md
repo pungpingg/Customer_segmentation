@@ -5,3 +5,5 @@ In this project, my primary objective is to categorize customers into distinct g
 The ultimate goal is to identify and target the most responsive groups, thereby increasing overall efficiency and effectiveness in reaching the intended audience.
 
 *Data source*: [customer-personality-analysis](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fimakash3011%2Fcustomer-personality-analysis)
+
+Please visit the file for more info.
